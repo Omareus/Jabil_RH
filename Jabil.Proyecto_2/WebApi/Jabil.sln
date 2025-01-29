@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{EB071A49-8A18-4D5C-8CC7-061FA084CE63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proyecto2", "Proyecto2", "{FD9509E2-C7C2-49A0-8FB0-CC3632F357DE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proyecto1", "Proyecto1", "{CCA00987-966A-4DA5-862B-85133DDB2B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto1", "Proyecto1\Proyecto1.csproj", "{E6647748-0183-4908-94F7-06A527F7E051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB071A49-8A18-4D5C-8CC7-061FA084CE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB071A49-8A18-4D5C-8CC7-061FA084CE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB071A49-8A18-4D5C-8CC7-061FA084CE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB071A49-8A18-4D5C-8CC7-061FA084CE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6647748-0183-4908-94F7-06A527F7E051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6647748-0183-4908-94F7-06A527F7E051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6647748-0183-4908-94F7-06A527F7E051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6647748-0183-4908-94F7-06A527F7E051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB071A49-8A18-4D5C-8CC7-061FA084CE63} = {FD9509E2-C7C2-49A0-8FB0-CC3632F357DE}
+		{E6647748-0183-4908-94F7-06A527F7E051} = {CCA00987-966A-4DA5-862B-85133DDB2B70}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576AF013-5B0C-43AB-9423-E2230257AB33}
+	EndGlobalSection
+EndGlobal
